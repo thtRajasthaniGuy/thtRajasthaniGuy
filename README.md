@@ -18,7 +18,7 @@ I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring about life.
 
-- :zap: In my free time, I Read and write Technical blog and watch anime..
+- :zap: In my free time, I Read books and watch anime..
 
 - :mailbox:How to reach me: mm2406402@gmail.com
 
