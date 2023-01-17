@@ -41,4 +41,4 @@ I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 
-https://hashnode.com/@partTimeCoder96
+https://hashnode.com/@thtRajasthaniGuy
