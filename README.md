@@ -20,8 +20,6 @@ I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I Read books and watch anime..
 
-- :mailbox:How to reach me: mm2406402@gmail.com
-
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thtRajasthaniGuy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
