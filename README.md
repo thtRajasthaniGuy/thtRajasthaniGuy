@@ -12,11 +12,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=partTimeCoder96&style=flat-square&color=blue" alt=""/>
 
-I am React Native Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am React Native and Nodejs Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Software Developer and contributing to frontend building Mobile applications.
-
-- :seedling: Exploring about life.
+- :seedling: Exploring.
 
 - :zap: In my free time, I Read books and watch anime..
 
