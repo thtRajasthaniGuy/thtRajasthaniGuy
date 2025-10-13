@@ -12,7 +12,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=partTimeCoder96&style=flat-square&color=blue" alt=""/>
 
-I am React Native and Nodejs Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am React Native and React.js Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :seedling: Exploring.
 
